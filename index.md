@@ -8,3 +8,4 @@ This is a public collection of community knowledge that I have encountered durin
 [Sarah Pfohl](sarahpfohl.html)  
 [Bert Stabler](bertstabler.html)  
 [Timothy Smith](timothysmith.html)  
+[Zombie Survival Guide](zombieguide.md)  

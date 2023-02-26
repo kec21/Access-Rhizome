@@ -2,4 +2,8 @@
 
 ## Extrasensory  
 
+[Spotify] <>  
+
+[YouTube] <>  
+
 Transcript  

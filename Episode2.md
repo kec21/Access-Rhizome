@@ -2,4 +2,8 @@
 
 ## Opulent Mobility  
 
+[Spotify] <>  
+
+[YouTube] <>  
+
 Transcript  

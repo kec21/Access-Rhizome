@@ -2,4 +2,8 @@
 
 ## Inelegant and Efficient Solutions  
 
+[Spotify] <>  
+
+[YouTube] <>  
+
 Transcript  
